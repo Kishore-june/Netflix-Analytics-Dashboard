@@ -2,7 +2,7 @@
 
 An interactive content analytics dashboard built on Netflix data using Power BI, DAX, and Power Query.
 
-![Dashboard Preview](Screenshots/Dashboard.png)
+![Dashboard Preview](Screenshot/Dashboard.png)
 
 ---
 
@@ -64,7 +64,7 @@ This project performs end-to-end ETL and visual analysis on a Netflix dataset to
 
 | Index Page |  Suggestion |
 |---|---|
-| ![Index](Screenshots/Index.png) | ![Suggestion](Screenshots/Suggestion.png) |
+| ![Index](Screenshot/Index.png) | ![Suggestion](Screenshot/Suggestion.png) |
 
 > Add your own screenshots to the `/screenshots` folder after exporting from Power BI (File → Export → PNG)
 
