@@ -2,7 +2,7 @@
 
 An interactive content analytics dashboard built on Netflix data using Power BI, DAX, and Power Query.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Screenshot/ Dashboard.png)
 
 ---
 
