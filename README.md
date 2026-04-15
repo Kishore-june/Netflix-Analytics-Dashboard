@@ -74,13 +74,14 @@ This project performs end-to-end ETL and visual analysis on a Netflix dataset to
 
 ```
 netflix-analytics-dashboard/
-├── netflix_dashboard.pbix       # Main Power BI file
+├── File/
+│   └── netflix.pbix             # Main Power BI file
 ├── data/
 │   └── netflix_titles.csv       # Raw dataset
-├── screenshots/
-│   ├── dashboard.png
-│   ├── overview.png
-│   └── genre.png
+├── screenshot/
+│   ├── Dashboard.png
+│   ├── Index.png
+│   └── Suggestion.png
 └── README.md
 ```
 
